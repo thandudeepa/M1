@@ -1,3 +1,4 @@
+// headers
 void checkbalance(char*);
 void transfermoney(void);
 void display(char*);
