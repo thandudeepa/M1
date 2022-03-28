@@ -17,9 +17,9 @@ Mini project using c language
 
 ![code grade](https://api.codiga.io/project/31376/status/svg)
 
-[![CI](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml)
+[![CI](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/thandu deepa/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml)
 
-[![Valgrind](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml)
+[![Valgrind](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/thandu deepa/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml)
 
 [![Build Linux](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Build.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Build.yml)
 
