@@ -25,6 +25,8 @@ Mini project using c language
 
 [![Unity Testing](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Unity.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Unity.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/thandudeepa/M1/actions/workflows/gitinsprcter.yml/badge.svg)](https://github.com/thandudeepa/M1/actions/workflows/gitinsprcter.yml)
+
 [![Contribution Check](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Contribution.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Contribution.yml)
 
 [![Static Check](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Static%20.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Static%20.yml)
