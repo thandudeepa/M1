@@ -17,9 +17,9 @@ Mini project using c language
 
 ![code grade](https://api.codiga.io/project/31376/status/svg)
 
-[![CI](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/thandu deepa/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml)
+[![CI](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/main.yml)
 
-[![Valgrind](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/thandu deepa/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml)
+[![Valgrind](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Valgrind.yml)
 
 [![Build Linux](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Build.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Build.yml)
 
@@ -30,14 +30,6 @@ Mini project using c language
 [![Static Check](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Static%20.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Static%20.yml)
 
 [![Quality Check](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Quality.yml/badge.svg)](https://github.com/chandupentakota/M1_projectgoal_Banking_Management_System_Util/actions/workflows/Quality.yml)
-
-![Screenshot (145)](https://user-images.githubusercontent.com/98889278/154532685-1547a33b-1fe5-4f60-8d32-5081355efe6b.png)
-
-
-
-
-
-
 
 
 
@@ -58,7 +50,7 @@ Mini project using c language
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-88454565| Pentakota Chandu  | Bank-management System    | 2    | 2   | 8  | 8    
+88454565| deepa thandu | Bank-management System    | 2    | 2   | 8  | 8    
      
 
 ## Challenges Faced and How Was It Overcome
